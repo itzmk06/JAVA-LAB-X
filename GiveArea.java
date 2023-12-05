@@ -12,6 +12,6 @@ public class GiveArea{
         float side1=Float.parseFloat(args[0]);
         float side2=Float.parseFloat(args[1]);
         double area=findArea(side1,side2);
-        System.out.println("Area of rectangle is "+area);
+        System.out.println("Area is "+area);
     }
 }
