@@ -1,4 +1,7 @@
 // write a program to take 2 arguments and print the area of rect and square
+// provide input by manually running 
+// ex : javac GiveArea.java
+// java GiveArea 10 20
 
 public class GiveArea{
     public static double findArea(float side1, float side2){
